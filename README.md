@@ -1,1 +1,1 @@
-# python-intern-assignments
+# Python Internship Assignments
